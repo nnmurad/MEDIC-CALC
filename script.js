@@ -1419,8 +1419,4 @@ function checkForAddedProduct() {
   }
   return [isErr, error__msg];
 }
-// SOURCE OF A DATABASE
-// https://www.npoint.io/docs/d6416f540f4a791f8134
 
-// Example usage:
-// Assuming you have an HTML container with ID "myContainer"
