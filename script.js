@@ -1261,7 +1261,7 @@
           "Energy (kcal)",
           "Protein (g)",
           "Fat (g)",
-          "carbohyDRate (g)",
+          "Carbohydrate (g)",
           "VitaminA (IU)",
           "Vitamin D (IU)",
           "Calcium (mg)",
